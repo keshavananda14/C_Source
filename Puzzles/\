@@ -1,0 +1,13 @@
+/*
+Print “Even” or “Odd” without using conditional statement
+*/
+#include<stdio.h>
+
+int main()
+{
+	char buff[2][] = {"Even","Odd"}
+	int num = atoi(argv[1]);
+	scanf("%d",&num);
+	printf("%s",buff[num%2]);
+	
+}
