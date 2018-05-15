@@ -1,0 +1,39 @@
+
+* C is a general-purpose programming language developed at AT & T's Bell Telephone Laboratories (USA) in 1972 by Dennis Ritchie.
+* C is one of the most popular programming languages of all time to create system software as well as application software. 
+* C is used to write programs for operating systems, database management systems , word processors, graphics, spreadsheets and compilers (including C compilers). 
+* A variable in C is a storage unit, which sets a space in memory to hold a value
+* ANSI standard recognizes a length of 31 characters for a variable name
+* The variable name may not be a C reserved word (keyword)
+* Every C word is classified as either a keyword or an identifier
+* Keywords serve as basic building blocks for program statements
+* There are only 32 keywords in C All keywords must be written in lowercase.
+* Constants in C refer to a specific quantity that doesn't change during the execution of a program.
+* Types of constants:
+	
+    Integer Constants
+    Real Constants
+    Single Character Constants
+    String Constants
+
+* The largest integer value for the 16-bit machine is 32767 and 2147483647 for a 32-bit machine.
+* A real constant is a number that may have a fractional part.
+* Exponential is useful for representing the number which is very large or very small in magnitude.
+* ANSI C supports four classes of data types :
+
+    Primary data types
+    User-defined data types
+    Derived data types
+    Empty data set
+
+* unsigned chars have values between 0 and 255, signed chars have values from -128 to 127. 
+* C has three classes of integer storage, namely short int, int, and long int, in both signed and unsigned forms.
+* The keyword signed uses one bit for a sign and 15 bits for the magnitude of the number in a 16-bit machine.
+* The keyword unsigned uses to store all the bits for the magnitude of the number and always positive. 
+* Floating point numbers are stored in 32 bits with 6 digits of precision
+* When the accuracy provided by a float number is not sufficient, the type double can be used to define the number
+* A double data type number uses 64 bits giving a precision of 14 digits
+* double type represents the same data type that float represents but with a greater precision
+* An Operator is a symbol that tells the computer to perform certain mathematical or logical manipulations. Operators are used in programs to manipulate data and variables.
+* A ternary operator pair “? :” is available in C to construct conditional expressions of the form - Exp1? Exp2: Exp3
+* 
